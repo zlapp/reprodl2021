@@ -1,4 +1,5 @@
 data/ESC-50*
+!data/ESC-50.dvc
 .vscode/*
 lightning_logs/*
 outputs/*
